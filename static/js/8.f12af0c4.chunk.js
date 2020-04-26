@@ -1,2 +1,0 @@
-(this.webpackJsonpskilltree=this.webpackJsonpskilltree||[]).push([[8],{417:function(e,t,n){"use strict";n.r(t);var l=n(0),i=n.n(l),r=n(53);t.default=function(){return i.a.createElement("div",null,"\u6ce8\u518c \u6ce8\u518c \u6ce8\u518c \u6ce8\u518c",i.a.createElement(r.b,{to:"/login"},"login"))}}}]);
-//# sourceMappingURL=8.f12af0c4.chunk.js.map
